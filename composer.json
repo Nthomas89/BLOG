@@ -1,0 +1,13 @@
+{
+    "name": "nicho/CST_126",
+    "authors": [
+        {
+            "name": "Nthomas89",
+            "email": "n.thomas21@outlook.com"
+        }
+    ],
+
+  "require": {
+    "php": "^5.6.0"
+  }
+}
